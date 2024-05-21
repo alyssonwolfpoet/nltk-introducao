@@ -15,3 +15,5 @@ https://medium.com/swlh/sentiment-analysis-using-python-and-nltk-library-d68caba
 https://www.geeksforgeeks.org/python-naming-conventions/
 
 https://visualgit.readthedocs.io/en/latest/pages/naming_convention.html
+
+https://www.aprendizartificial.com/analise-de-sentimentos-super-facil-com-python/
