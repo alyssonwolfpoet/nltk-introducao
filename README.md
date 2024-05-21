@@ -1,4 +1,4 @@
-#links para estudos
+# links para estudos
 
 https://pypi.org/project/nltk/
 
