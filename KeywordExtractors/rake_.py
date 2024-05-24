@@ -1,12 +1,11 @@
 from rake_nltk import Rake
-import os
 import pandas as pd
 
 
 rake = Rake()
-
-os.system("cat /home/alysson/PycharmProjects/nltk-introducao/Keyword\ Extractors/aclImdb_v1/aclImdb/train/pos/*.txt >> textao.txt") 
-df = pd.read_csv("textao.txt")
+ 
+df = pd.read_csv("KeywordExtractors/aclImdb_v1/aclImdb/train/pos/55_9.txt")
+print(df.head())
 
 rake.extract_keywords_from_text(df)
 
