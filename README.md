@@ -1,5 +1,7 @@
 # links para estudos
 
+## nltk
+
 https://pypi.org/project/nltk/
 
 https://medium.com/turing-talks/uma-an%C3%A1lise-de-dom-casmurro-com-nltk-343d72dd47a7
@@ -27,3 +29,6 @@ https://awari.com.br/python-a-leitura-de-arquivos-txt/
 
 ## pip 
 https://packaging.python.org/en/latest/tutorials/installing-packages/
+
+
+py -m pip install scikit-learn scipy matplotlib
