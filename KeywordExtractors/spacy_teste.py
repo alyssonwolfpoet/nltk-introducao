@@ -1,6 +1,6 @@
 import spacy
 
-nlp = spacy.load('pt_core_news_sm')
+nlp = spacy.load("en_core_web_sm")
 text = "Sources tell us that Google is acquiring Kaggle, a platform that hosts data science and machine learning "\
 "competitions. Details about the transaction remain somewhat vague, but given that Google is hosting its Cloud "\
 "Next conference in San Francisco this week, the official announcement could come as early as tomorrow. "\
