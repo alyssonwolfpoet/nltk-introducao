@@ -24,3 +24,6 @@ https://pypi.org/project/rake-nltk/
 https://medium.com/@bharathwajan/rake-explained-with-python-implementation-95ecaeb6c580
 https://www.analyticsvidhya.com/blog/2021/10/rapid-keyword-extraction-rake-algorithm-in-natural-language-processing/
 https://awari.com.br/python-a-leitura-de-arquivos-txt/
+
+## pip 
+https://packaging.python.org/en/latest/tutorials/installing-packages/
