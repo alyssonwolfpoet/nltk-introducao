@@ -26,6 +26,8 @@ https://pypi.org/project/rake-nltk/
 https://medium.com/@bharathwajan/rake-explained-with-python-implementation-95ecaeb6c580
 https://www.analyticsvidhya.com/blog/2021/10/rapid-keyword-extraction-rake-algorithm-in-natural-language-processing/
 https://awari.com.br/python-a-leitura-de-arquivos-txt/
+https://www.geeksforgeeks.org/keyphrase-extraction-in-nlp/
+https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/
 
 ## pip 
 https://packaging.python.org/en/latest/tutorials/installing-packages/
@@ -37,3 +39,5 @@ py -m spacy download en_core_web_dm
 python3 -m pip install nltk
 pip install summa
 pip install yake
+pip install keybert
+pip install wordcloud
