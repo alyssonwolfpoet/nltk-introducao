@@ -33,4 +33,7 @@ https://packaging.python.org/en/latest/tutorials/installing-packages/
 
 py -m pip install scikit-learn scipy matplotlib
 py -m pip install spacy
-py -m spacy download en_core_web_sm
+py -m spacy download en_core_web_dm
+python3 -m pip install nltk
+pip install summa
+pip install yake
