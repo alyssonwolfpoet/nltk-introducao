@@ -28,6 +28,9 @@ https://www.analyticsvidhya.com/blog/2021/10/rapid-keyword-extraction-rake-algor
 https://awari.com.br/python-a-leitura-de-arquivos-txt/
 https://www.geeksforgeeks.org/keyphrase-extraction-in-nlp/
 https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/
+https://www.analyticsvidhya.com/blog/2021/05/how-to-build-word-cloud-in-python/
+https://www.datacamp.com/tutorial/wordcloud-python
+https://course.spacy.io/pt/chapter1
 
 ## pip 
 https://packaging.python.org/en/latest/tutorials/installing-packages/
@@ -41,3 +44,5 @@ pip install summa
 pip install yake
 pip install keybert
 pip install wordcloud
+python3 -m pip install numpy pandas matplotlib pillow wordcloud
+pip install wordcloud==1.9.3
