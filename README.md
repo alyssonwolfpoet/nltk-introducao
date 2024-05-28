@@ -46,3 +46,5 @@ pip install keybert
 pip install wordcloud
 python3 -m pip install numpy pandas matplotlib pillow wordcloud
 pip install wordcloud==1.9.3
+py -m spacy download pt_core_news_lg
+py -m pip install wordcloud
